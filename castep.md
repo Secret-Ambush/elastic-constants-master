@@ -1,5 +1,3 @@
-Here's the provided Python code as a Markdown documentation:
-
 ```markdown
 # castep.py
 
