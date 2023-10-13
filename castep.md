@@ -1,4 +1,3 @@
-```markdown
 # castep.py
 
 `castep.py` is a Python script for reading and writing CASTEP (Cambridge Sequential Total Energy Package) files. It provides functionality to extract lattice and atom positions from a CASTEP file, replace the lattice block in a .cell file with a new crystallographic lattice, and extract stress tensor information from a .castep file.
@@ -70,6 +69,6 @@ units, stress = get_stress_dotcastep(filename)
 This script is provided under the copyright of Andrew Walker (a.walker@ucl.ac.uk) and is for educational and reference purposes. All rights reserved.
 
 For more information and support, please contact the author.
-```
+
 
 This Markdown documentation provides an overview of the `castep.py` script and how to use its functions to work with CASTEP files. You can include this documentation in a README file or any other documentation for your project.
